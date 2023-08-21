@@ -1,6 +1,6 @@
 public Class A() {
     int a = 20;
-    String str = "hello";
+    String str = "이건메인에서 변경한 변수";
 
     public void method1(){
 
