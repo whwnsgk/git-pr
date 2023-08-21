@@ -1,6 +1,6 @@
 public Class A() {
     int a = 20;
-    String str = "이건메인에서 변경한 변수";
+    String str = "컽플릭트1에서 변경";
 
     public void method1(){
 
